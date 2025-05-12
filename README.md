@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/consensys/quorum/master/logo.png" width="200" height="35"/>
+# <img src="https://weedbit.org/_astro/WeedBit.D8BdzzoI.svg" width="200" height="35"/>
 
 
 ![Build Check](https://github.com/jpmorganchase/quorum/workflows/Build%20Check/badge.svg?branch=master)
